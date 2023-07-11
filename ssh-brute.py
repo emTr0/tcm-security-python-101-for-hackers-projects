@@ -1,3 +1,5 @@
+# Project #1 - SSH login brute forcing
+
 from pwn import *
 import paramiko
 
