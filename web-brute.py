@@ -1,3 +1,5 @@
+# Project #3 - Web login form brute forcing
+
 import requests
 import sys
 
