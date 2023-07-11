@@ -1,3 +1,5 @@
+# Project #2 - SHA256 password cracking
+
 from pwn import *
 import sys
 
